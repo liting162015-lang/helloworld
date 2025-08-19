@@ -123,4 +123,4 @@ jobs:
           name: ${{env.ARCHIVE_NAME}}-logs
           path: |
             logs/
-            PKG-INFO
+            PKG-INFO 
